@@ -48,4 +48,4 @@ def whatismyip():
 whatismyip() 
 while True:
     ping(ping_site)
-    time.sleep(1)   
+    time.sleep(120)   
